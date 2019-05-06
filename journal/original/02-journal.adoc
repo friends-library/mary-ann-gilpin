@@ -77,9 +77,11 @@ family the counsel or admonition she thought it right to give them.
 Often has she checked the rising evil tempers of her younger brothers,
 when striving together, by the gentle repetition of some such lines as these: Remember--
 
+[verse]
+____
 "`He that condescends the most,
-
 Remains the victor still.`"
+____
 
 And when those about her own age had, in her view, yielded to temptation,
 or given way to angry feeling,
@@ -109,13 +111,13 @@ The means employed to subdue this disease reduced her so low, that she thought h
 and was thought by several around her, to be dying.
 At this time her lips moving, her dear mother leaned over her and caught the words,
 
+[verse]
+____
 "`The pangs of death are o`'er me,
-
 I see the jasper wall,
-
 Jesus has pass`'d before me,
-
 And God the Judge of all.`"
+____
 
 She was raised from this bed of sickness increasingly qualified to
 tell of the faithfulness of Him in whom she believed,
@@ -194,16 +196,15 @@ she hoped I might prove a blessing to others,
 and reminded me of the great Physician to whom I could apply.
 She ended with repeating those lines:
 
+[verse]
+____
 "`May`'st thou learn to know and fear Him,
-
 Serve and love Him all thy days,
-
 Then go live forever near Him,
-
 See His face and sing His praise.`"
+____
 
 Oh, may this indeed be the case.
-
 Amidst the many temptations which surround me on every side,
 may my strength be in the Lord my God.
 Oh, we are assured--and may we not believe--that He is able
@@ -281,13 +282,13 @@ more difficult to strive against than those from without.
 11mo. 2nd.--When going to give up a little thing in dress this morning,
 and finding it very difficult to do so, these lines were brought forcibly to my mind--
 
-Be simply faithful to thy inward guide,
-
+[verse]
+____
+"`Be simply faithful to thy inward guide,
 Heedless of mortal laugh or mortal frown,
-
 And in thy Maker`'s service fortified,
-
-Fear not the cross, for that secures the crown.
+Fear not the cross, for that secures the crown.`"
+____
 
 11mo. 8th, first day.--"`Come unto me all ye that are weary and heavy laden,
 and I will give you rest.
@@ -505,7 +506,8 @@ and an increasing sense of our own unworthiness;
 in which state we can alone feel the necessity
 of being clothed in the righteousness of Christ:
 in Him, oh mercifully grant, that we may know ourselves complete;
-that He may be unto us "`wisdom and righteousness, sanctification and redemption.`"
+that He may be unto us "`wisdom and righteousness,
+sanctification and redemption.`"
 
 5mo. 2nd. +++______+++ visited us, and addressed my dear parents,
 and +++_______+++, and then myself.
@@ -548,7 +550,7 @@ Through infinite love he has, I cannot doubt,
 obtained a blessed inheritance amongst the saints in
 light! "`Blessed are the dead who die in the Lord.`"
 
-6mo. 19th.--Took leave of dear +++______+++ how sweet is the feeling
+6mo. 19th.--Took leave of dear +++______+++, how sweet is the feeling
 of union in Him who is the Head over all things to His church,
 which is His body, the fulness of Him who filleth all in all.
 
@@ -563,13 +565,13 @@ to hold more frequent communion with the beloved of my soul.
 
 7mo. 7th.--
 
+[verse]
+____
 "`The dearest idol I have known,
-
 Whate`'er that idol be,
-
 Help me to tear it from thy throne
-
 And worship only thee.`"
+____
 
 To worship God in spirit and in truth,
 and to worship Him alone is the fervent desire of my soul,
@@ -578,6 +580,9 @@ Be pleased, O Lord, I humbly pray thee, for Jesus`' sake,
 to teach thy unworthy little one, and to lead her in the way she should go; she humbly,
 yet earnestly prays, that her thoughts, words, and actions,
 may tend more and more to her Redeemer`'s praise!
+
+[.small-break]
+'''
 
 +++[+++Soon after writing the above, she was again stretched upon a sick bed, and brought,
 in all human appearance, to the very entrance of the "`valley of the shadow of death.`"
@@ -601,6 +606,9 @@ bearing me above the swelling of the waves of Jordan.`"
 In the evening the various members of the household, were summoned to her room,
 as it appeared that the spirit was about to take its flight.
 Whilst all were standing around her bed she thus addressed us:]
+
+[.small-break]
+'''
 
 "`My dear parents, brothers, and sisters,
 we are once more permitted to meet again in mutability,
@@ -628,6 +636,9 @@ Now to Him who has dealt so wonderfully, so gently with me,
 I can in confidence commend you, His protecting care will, I believe, be over you,
 and oh may you be enabled to resign me into His hands,
 who has done and still doeth all things well.`"
+
+[.small-break]
+'''
 
 +++[+++During the following night, which will be long,
 long remembered by those who were privileged to be witnesses of this scene,
@@ -677,7 +688,11 @@ in the wilderness had been thus lengthened.
 The following letter was written during this illness to her relatives, in the belief,
 that it would, probably, be the last she would be able to address to them.]
 
-To my beloved brothers and sisters--
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+To my beloved brothers and sisters:
 
 Whilst deeply feeling my own weakness,
 I have sometimes been almost ready to shrink from what I have long felt to be my duty,
@@ -769,7 +784,10 @@ of our all meeting around the throne of our adorable Redeemer.
 Oh that we may all be counted worthy to join in singing,
 "`Alleluia`" to His name forever!
 
+[.signed-section-signature]
 Mary Ann Gilpin.
+
+--
 
 12mo. 15th.--Under renewed feelings of heartfelt
 gratitude to the great Giver of all good,
@@ -854,6 +872,7 @@ I felt that I was in the hands of a compassionate Father,
 and I was willing to resign myself to Him,
 to do or bear whatsoever He might see meet for me.
 
+[.offset]
 +++[+++Here follow many details of her experience, which, from their reference to others,
 it seems undesirable to insert.]
 
@@ -870,9 +889,10 @@ I returned home the 14th of the 10th month, after being absent more than three m
 during which time I devoted my attention almost entirely to +++_______+++,
 though obliged sometimes, indeed, regularly to engage in my ordinary employments.`"
 
+[.offset]
 +++[+++1831.--She now entered diligently, and with deep interest,
 into the employment of instructing her younger brothers and sisters.
-On the 12th month, 25th, she writes:--]
+On the 12th month, 25th, she writes:]
 
 25th.--I have had, this evening, some interesting conversation with my little brothers.
 Dear, precious children! already do they appear to see the love of God,
@@ -987,7 +1007,7 @@ make me to see myself as I really am, and enable me in sincerity to adopt the la
 I have this evening, renewedly and earnestly,
 desired the best welfare of each member of my beloved family;
 oh that they all may be citizens of Zion,
-knowing their robes to be washed and made white in a Saviour`'s Wood!
+knowing their robes to be washed and made white in a Saviour`'s blood!
 For my friends also, all of them, but for some in an especial manner,
 to whom I have this evening felt most nearly united,
 I have sincerely raised a petition that they may
@@ -1149,11 +1169,12 @@ although it does indeed appear as a "`fiery baptism;`" still, however,
 would I humbly crave,
 that no trial may be spared me calculated to bring me nearer to Jesus.
 
+[verse]
+____
 "`Amidst my list of blessing infinite,
-
 Stands this the foremost
-
 That my heart has bled!`"
+____
 
 And it is the fervent prayer of my soul that I may, again and again,
 be brought through the refiner`'s tire,
@@ -1655,40 +1676,57 @@ when in remembrance of the past week my heart was covered with gratitude,
 and with most earnest desires to be kept faithful.
 How sweet is rest after a toiling day--oh, how much more sweet,
 how inexpressibly precious,
-will be that rest which remaineth for the people of God in heaven.`"
+will be that rest which remaineth for the people of God in heaven.
 
-At this place in the journal are the following:
+[.offset]
++++[+++At this place in the journal are the following:]
 
 === Questions For Self Examination.
 
+[.numbered]
 Did I begin the day with prayer?
-"``" Did I devote a portion of time early in the day to silent retirement?
 
+[.numbered]
+Did I devote a portion of time early in the day to silent retirement?
+
+[.numbered]
 Have I said any thing to the disadvantage of another?
 
+[.numbered]
 Have I encouraged unkind thoughts of any one?
 
+[.numbered]
 Have I performed all my duties to the children?
 
+[.numbered]
 Have I in any way put a stumbling-block or an occasion to fall in their way?
 
+[.numbered]
 Have I endeavoured to help them forward in the way of holiness?
 
+[.numbered]
 Have I in all things set them a right example?
 
+[.numbered]
 Have I directed them to look to Christ as their only perfect pattern?
 
+[.numbered]
 Have I when they have wandered, sought strength from above to lead them back again?
 
+[.numbered]
 Have I sought opportunities in the day for the renewal of my strength?
 
+[.numbered]
 Have I performed my duties rightly towards the servants?
 
+[.numbered]
 Have I sought in every step of the way to know the will of God,
 and have I endeavoured simply to perform it, "`looking unto Jesus?`"
 
+[.numbered]
 Have I remembered all my friends at the throne of grace?
 
+[.numbered]
 Have I closed the day with seeking the divine protection,
 and in feelings of thankfulness for the preservation experienced?
 
@@ -1720,6 +1758,7 @@ A very satisfactory evening.
 I was graciously enabled to do something which was very trying in prospect,
 but which was made easy to me; oh I have indeed cause to trust in the arm of Omnipotence.
 
+[.offset]
 +++[+++In the sixth month, 1834, she paid another visit to +++_______+++,
 where her relative resided,
 upon whose account she had been so long and so deeply interested.]
@@ -2237,6 +2276,9 @@ while the outward may look dark before me,
 and I cannot understand my heavenly Father`'s ways, that what we know not now,
 we shall know hereafter.
 
+[.small-break]
+'''
+
 +++[+++Her mind seemed formed for friendship,
 and many of her personal attachments were very strong.
 Her very frequent allusion to a much loved friend, S+++______+++, will have been remarked;
@@ -2258,6 +2300,9 @@ By the removal of several whom she had regarded with fond affection,
 was she painfully but instructively reminded,
 of the danger of placing her affections too much upon any
 mortal--of leaning in any way upon the "`arm of flesh.`"]
+
+[.small-break]
+'''
 
 24th.--Called, after dinner, on dearest +++_______+++, and never, I hope,
 shall I forget the time passed with her.
@@ -2300,6 +2345,7 @@ May He shield her from every danger--keep her in the hour of temptation--
 bring her safely through the wilderness of this world--and,
 in the end, enable her to rejoice in Him.
 
+[.offset]
 +++[+++On the occasion of her sister`'s marriage, she writes:]
 
 27th.--The day, though in some respects an exciting one, was such, as will long, I trust,
@@ -2679,9 +2725,11 @@ more constantly at thy footstool!
 Thou knowest my wanderings; and, oh, be graciously pleased, again and again,
 to turn thine hand upon me, to take away my dross.
 
+[verse]
+____
 "`Whate`'er thy power has shaken, shake again,
-
 Till nought but things immoveable remain!`"
+____
 
 9th.--Heard of B. G+++______+++`'s removal, and my heart was bowed, during meeting,
 in sympathy with his beloved wife and family.
@@ -3042,10 +3090,16 @@ heavenly inheritance--I have earnestly desired the support of the everlasting ar
 Permitted to feel, in some degree,
 strengthened by approaching the throne of grace on her, and my own behalf in the evening.
 
+[.small-break]
+'''
+
 +++[+++The apprehensions thus expressed were confirmed,
 and she was now called upon to resign her dearest earthly friend.
 Her feelings, while thus bowed, as to the dust, under the afflictive dispensation,
 are expressed in several of her letters as well as in the following memoranda.]
+
+[.small-break]
+'''
 
 9th.--The feelings of deep sorrow which filled my heart on retiring to rest,
 are this morning accompanied with sweet confidence in my heavenly Father.
@@ -3842,6 +3896,7 @@ Oh, my soul, what owest thou?
 May I, in frequently making this query, be humbled,
 whilst desiring to give up my all to Him to whom it belongs!
 
+[.offset]
 +++[+++At this time she came to Bristol on a visit.]
 
 16th.--Deeply feeling my need of best help for the performance of my duty this day,
@@ -4054,6 +4109,7 @@ I rejoice in the conviction that thy love is still extended towards me; and,
 under a renewed and deep sense of unworthiness, I would earnestly, pray,
 that thou wouldst keep, preserve, and strengthen me in the way of thy commandments.
 
+[.offset]
 +++[+++It was thought that the air of the sea-side might prove beneficial to her,
 and she was removed at this time to Aberystwith.]
 
@@ -4114,6 +4170,7 @@ more constantly occupied with things divine.
 These blessings I have asked in the name and for the sake of Him who died for us,
 and through whom alone we can have access unto the Father.
 
+[.offset]
 +++[+++During her stay at Aberystwith she penned the following supplication.]
 
 Aberystwith, 5th day evening.--Renewedly and deeply sensible of the uncertainty of time,
@@ -4337,6 +4394,9 @@ I have of late been strengthened to commit my body, without fear, to His keeping
 and I have desired, also, fully to commit my soul,
 but I want more constant fervency of spirit.
 
+[.small-break]
+'''
+
 +++[+++Shortly after writing this, her health again failed her,
 and she became so weak as to be confined to her room.
 Although her complaint had at first exhibited threatening symptoms of consumption,
@@ -4354,12 +4414,18 @@ and a subsequent consultation with the physician confirmed his fears,
 that the complaint had changed its character, and attacked the lungs.
 Her last memorandum in her journal was on the 21st of 2mo. 1838.]
 
+[.small-break]
+'''
+
 2mo. 21st.--The time which has passed away since I last wrote
 any thing here has been memorable in my experience.
 My body has again been brought very low, but I have been most tenderly dealt with.
 Last night was a restless one,
 but I was unspeakably happy--no cloud appeared to darken the future,
 and I was strengthened to feel entire resignation to the divine will.
+
+[.small-break]
+'''
 
 +++[+++During the few remaining months of her life it was the mournful,
 but prized privilege of those of her family who were able to be much with her,
@@ -4503,13 +4569,13 @@ One evening, when those around her were mourning over her harassing, restless ni
 you must remember the perfect rest I shall then be enjoying.
 I shall be
 
+[verse]
+____
 "`Where everlasting spring abides,
-
 And never withering flowers;
-
 Death, like a narrow stream divides
-
 This heavenly world from ours.`"
+____
 
 Her disease, at this time, appeared to be making such rapid progress,
 that she wished to have her four absent brothers sent for,
@@ -4521,9 +4587,11 @@ She strove to comfort him, saying, "`Don`'t, don`'t grieve; oh I want to see the
 We have been a united family on earth,
 oh may we be a united family in heaven--not one missing.
 
+[verse]
+____
 "`Oh it will be joyful-joyful--JOYFUL!
-
 When we meet to part no more.`"
+____
 
 I have for so many years earnestly and fervently
 prayed that we all may be reunited in glory,
@@ -4580,23 +4648,25 @@ Her mind seemed clothed with thankfulness, and she frequently expressed,
 in glowing terms, her gratitude for the little kindnesses of those around her;
 once saying, "`Oh may you have your every want supplied, as mine have been,
 when you may need the care I have so abundantly experienced.`"
-After a day of much suffering, proceeding from acute pain in the side,`" she said,
+After a day of much suffering, proceeding from acute pain in the side, she said,
 with much emphasis,
 
+[verse]
+____
 "`How sweet to think of rest at last;
-
 To feel that death is gain.`"
+____
 
-Oh how delightful rest will be after this;
+"`Oh how delightful rest will be after this;
 but I do not think I desire even rest so much as to be where I shall
 be free from all wandering thoughts--forever free from the tempter.
 I am sometimes sadly tried with wandering thoughts when
 I endeavour to fix my mind in prayer.
 Oh to be where I shall never, never sin! and if we all meet there, how happy shall we be!
-You, my dear parents, will be able to say, "`Here are we, Lord,
-and the children thou hast given us.`"
+You, my dear parents, will be able to say, '`Here are we, Lord,
+and the children thou hast given us.`'
 It is not wrong, is it, to long to be where there will be no more sin?
-You know it does not proceed from any want of affection.
+You know it does not proceed from any want of affection.`"
 
 About this time, she told her sister, it had been for many months her practice,
 before settling to rest for the night, to remember all her friends by name,
@@ -4747,13 +4817,13 @@ but the beloved patient repeatedly assured those around her,
 that she was not suffering--that she was "`most tenderly dealt with`"--and repeated,
 in a low voice, but very distinctly, the lines,
 
-Oh glorious hour! oh blest abode!
-
+[verse]
+____
+"`Oh glorious hour! oh blest abode!
 I shall be near and like my God!
-
 And sin and sense no more control,
-
 The sacred pleasures of my soul.`"
+____
 
 She spoke of the fine day, and said,
 "`But oh it is nothing to the brightness of the land where I am going.`"
@@ -4815,9 +4885,11 @@ but oh simply and constantly look unto Him; and do not think of me as I am now,
 but as I soon shall be.`"
 On his leaving the room, she said,
 
+[verse]
+____
 "`Go! and my spirit goes with thee,
-
 Go! and thy spirit stays with me.`"
+____
 
 Shortly after this she experienced another of her most distressing attacks
 of difficulty of breathing--the windows and door were thrown open,
@@ -4879,13 +4951,13 @@ dear.... I am....going....going.... home.`"
 but now I am going.... I am going....to my happy home.`"
 Her mother leaned over her, and repeated, in a whisper, some favourite lines of a hymn,
 
+[verse]
+____
 "`One gentle sigh, her fetters breaks,
-
 We scarce can say, she`'s gone,
-
 Before the willing spirit takes
-
 Its mansion near the throne.`"
+____
 
 She gave a bright smile of intelligence, but did not speak.
 Her mother then said, "`Thy Saviour is with thee, dear, in the dark valley.`"
@@ -4916,6 +4988,10 @@ and sing the song of praise and thanksgiving to Him who hath redeemed them.
 After her death the following lines, addressed to her relatives, were found,
 traced by her trembling hand in pencil.]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Farewell, my much loved parents, brothers, and sisters!
 
 My heart is full, in the consideration that most probably,
@@ -4941,6 +5017,10 @@ through redeeming mercy, I am hastening, and where I confidently hope we may mee
 The shadows of the evening of my day I watch with grateful joy!
 Whilst deeply unworthy, I rest in hope of the glory of God!
 
+[.signed-section-closing]
 Most affectionately,
 
-Farewell! farewell.
+[.signed-section-closing]
+Farewell! Farewell.
+
+--

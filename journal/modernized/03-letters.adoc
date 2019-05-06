@@ -1,7 +1,9 @@
 == Extracts from Her Letters
 
+[.letter-heading]
 To a Friend.
 
+[.signed-section-context-open]
 Durdham Down, 4th 6mo. 1830.
 
 May I encourage you to trust to Israel`'s Shepherd for support,
@@ -31,8 +33,10 @@ And my most earnest desires for you are, that as your day approaches its close,
 your sun may become brighter and brighter, and that, as your bodily strength fails you,
 God may, indeed, prove "`the strength of your heart and your portion forever!`"
 
+[.letter-heading]
 To Her Father.
 
+[.signed-section-context-open]
 Bristol, 18th 8mo. 1830.
 
 And now, my beloved father, you will be anxious to know how I am, and it will, I know,
@@ -73,8 +77,10 @@ which "`I myself have been comforted of God.`"
 
 May all my beloved friends find Him to be their Guide, their Comforter, their Friend.
 
+[.letter-heading]
 To Her Parents.
 
+[.signed-section-context-open]
 Birmingham, 1st 8mo. 1831.
 
 After we left you, mingled, indeed, were the feelings of my heart,
@@ -92,8 +98,10 @@ This ride (from Gloucester to Birmingham) was one which I hope I shall long reme
 A peace which "`passes all understanding,`" was permitted,
 and a saving knowledge of Christ Jesus never appeared more unspeakably precious.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 26th 8mo. 1831.
 
 And now you will, I think,
@@ -123,8 +131,10 @@ I cannot tell you with what feelings I heard him say this.
 They are often sorrowful on his account, yet then, and at some other seasons,
 I have felt a degree of encouragement about him.
 
-To Her Sister J.
+[.letter-heading]
+To Her Sister J+++_______+++.
 
+[.signed-section-context-open]
 Supposed 1832.
 
 Feeling that my long continuance here is peculiarly uncertain, I do,
@@ -185,8 +195,10 @@ many backslidings not only forgiven but remembered no more?
 Farewell, dearest J+++______+++. That Christ may be more and more your all in all,
 is the heartfelt prayer of your much attached sister.
 
+[.letter-heading]
 To Her Brother Charles.
 
+[.signed-section-context-open]
 1832.
 
 Under a renewed and vivid sense of the "`beauty of holiness,`" I do,
@@ -224,6 +236,7 @@ Only yield your heart to Him, and all will, all must be well!
 Farewell, my beloved brother; time will not admit of my adding more than that I am,
 with much love, and best desires for your eternal welfare, your much attached sister.
 
+[.letter-heading]
 To the Same.
 
 You ask me for my views respecting your reading meetings.
@@ -243,8 +256,10 @@ and lead you forward in the way everlasting;`" that.
 He may strengthen you in all things to do His will, is, my endeared brother,
 the fervent prayer of your much attached sister.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 12th 9mo. 1833.
 
 I am indeed glad to find that you have, in your frequent companion,
@@ -270,8 +285,10 @@ we may have a mansion in that "`house not made with hands, eternal in the heaven
 Oh that we may, with more earnestness, endeavour to follow Jesus,
 wherever He is pleased to lead us!
 
+[.letter-heading]
 To Her Sister S+++______+++.
 
+[.signed-section-context-open]
 Clevedon, 8th 5mo. 1834.
 
 I should not myself like,
@@ -312,9 +329,11 @@ for ourselves treasure in that world where all is lasting!
 I much enjoy the view of the sea; this, too, is a wonderful proof of divine power;
 indeed on every hand we may mark the divine finger:
 
+[verse]
+____
 "`In every leaf that trembles on the breeze
-
 I hear the voice of God among the trees!`"
+____
 
 Farewell, my beloved girl!
 May the great and good Shepherd carry you in the arms of His love;
@@ -322,8 +341,10 @@ and may you ever experience Him to be a shelter from the storm,
 and as the shadow of a great rock in a weary land!
 I am, as ever, your much attached sister.
 
+[.letter-heading]
 To Her Brother Charles.
 
+[.signed-section-context-open]
 9th 11mo. 1834.
 
 I think I mentioned in my last, my beloved brother, that M. A. M. was gone to Penzance,
@@ -408,8 +429,10 @@ deep suffering--but oh may you be enabled to go onwards, daily, yes hourly,
 looking to your heavenly Guide.
 To Him I most affectionately commend you, and most hastily bid you farewell.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Bristol, 10th 3mo. 1835.
 
 My beloved Charles! how great is the importance
@@ -444,8 +467,10 @@ we shall know the song of thanksgiving to be put
 into our mouths--to Him who has redeemed us.
 With dearest love, your affectionately-attached sister.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 Leominster.
 
 I was quite concerned my beloved mother, to find, that the cloud which covered my way,
@@ -476,10 +501,11 @@ I would crave for you the felt guidance of the Shepherd of Israel.
 May He mercifully condescend to lead you, and each of your children,
 to the fold of safety and of peace.
 
+[.letter-heading]
 To the Same.
 
-Leominster, 13th Imo.
-1835.
+[.signed-section-context-open]
+Leominster, 13th 1mo. 1835.
 
 When enabled, even in a slight degree,
 to contemplate the blessedness of the redeemed above,
@@ -520,10 +546,11 @@ willing to bear them--may you daily experience a renewal of strength,
 and be favoured to know, from time to time,
 the sufficiency of the help which is laid on one who is mighty!
 
+[.letter-heading]
 To Her Sister S+++______+++.
 
-Leominster, Imo.
-1835.
+[.signed-section-context-open]
+Leominster, 1mo. 1835.
 
 Although the time of our separation will probably be very short, I do not,
 my beloved S+++______+++, like to leave you without expressing, in this way,
@@ -561,8 +588,10 @@ But, dear, dear S+++______+++, remember, you may, and I trust will,
 have a never failing and ever present Helper;
 and to His care do I at this time commend you.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-closing]
 Coalbrookdale, 1mo. 1835.
 
 I have been much interested in spending more time in
@@ -591,8 +620,10 @@ never to mar or tamper with the beautiful superstructure.
 He believed the spiritual views of our society were spreading amongst other Christians,
 but it was not the time for us to lower our standard, etc. etc.
 
+[.letter-heading]
 To Her Mother.
 
+[.signed-section-context-open]
 Leominster, 6th 8mo. 1835.
 
 The frequent prostration of your strength is indeed, my dear mother, calculated,
@@ -633,8 +664,10 @@ and how do I long that we may be strengthened
 more and more to examine what this has been,
 and is, on our minds.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Southfield, 20th 8mo. 1835.
 
 I have not forgotten, my beloved mother,
@@ -682,8 +715,10 @@ And I confidently hope that all anxiety respecting the future may be spared you,
 by committing yourself to His care,
 without whose knowledge a sparrow falls not to the ground.
 
+[.letter-heading]
 To Her Brother Charles.
 
+[.signed-section-context-open]
 Leominster, 25th 12mo. 1835.
 
 I trust, my beloved brother, you have not thought me ungrateful, for not, before this,
@@ -760,8 +795,10 @@ and look forwards--perhaps our journey may not be long; oh that we may, at the e
 be permitted to enter on that rest which we believe to
 be the blessed portion of my precious friend.
 
+[.letter-heading]
 To Her Parents.
 
+[.signed-section-context-open]
 Leominster, 5mo. 1836.
 
 My beloved parents, be not too much cast down at the heaving of the stormy billows.
@@ -773,8 +810,10 @@ the sweetly supporting belief, that, bitter as our present trial is,
 it will be of use to some of us,
 even if it tend only to lead us to watch more constantly "`over one another in love.`"
 
+[.letter-heading]
 To Her Sister S+++______+++.
 
+[.signed-section-context-open]
 5mo. 1836.
 
 In close attention to the work of your own soul`'s salvation,
@@ -801,8 +840,10 @@ and your light burning;`" and may you thus be found waiting
 the arrival of your Lord--that whether He come in the morning,
 noon, or evening of your day, you may be found ready.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 26th 6mo. 1836.
 
 Yes, my beloved girl,
@@ -821,8 +862,10 @@ and I trust I shall be increasingly enabled to adopt the apostle`'s language,
 "`to live is Christ;`" and to crave that guidance without which,
 I must continually go astray.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 1836.
 
 Oh do not shrink, my beloved girl, from acknowledging Him in your daily walk,
@@ -850,10 +893,11 @@ and not backwards in the heavenly race!
 My much loved S+++______+++, remember to what you are called, and be not ashamed of Him who,
 in the last solemn hour, is alone sufficient to uphold the departing spirit.`"
 
+[.letter-heading]
 To Her Sister J+++______+++.
 
-Leominster, Imo.
-1836.
+[.signed-section-context-open]
+Leominster, 1mo. 1836.
 
 Your mention of +++_______+++ interested me.
 In the prospect of becoming a clergyman`'s wife, she must, I should think,
@@ -882,8 +926,10 @@ and has long patience for it, until he receives the early and the latter rain.`"
 We must be also patient, but if we faint not, rest assured, dearest J+++______+++,
 "`we shall reap,`" if we are strengthened to persevere in well doing.`"
 
+[.letter-heading]
 To Her Brother Charles.
 
+[.signed-section-context-open]
 Leominster, 28th 10mo. 1836.
 
 Your allusion to travelling,
@@ -894,9 +940,10 @@ that can preserve--you know it is sufficient to bring out, not only unscorched,
 but purified.
 That such may be your blessed experience, I earnestly and affectionately desire.
 
+[.letter-heading]
 To the Same.
 
-"`You need not, my beloved Charles, be at all afraid of my entering into discussion.
+You need not, my beloved Charles, be at all afraid of my entering into discussion.
 I am so fully convinced that it is not calculated, in any way,
 to help the traveller in his journey heavenward,
 that I much trust that I may ever be preserved from doing so.
@@ -914,6 +961,7 @@ Surely, surely, we have no time for controversy;
 but should each be seeking to possess for ourselves,
 a well grounded hope of a glorious immortality.
 
+[.letter-heading]
 To Her Sister Elizabeth.
 
 And now, dear Elizabeth, a few questions,
@@ -931,8 +979,10 @@ and that in every difficulty you find therein, you may be enabled to look unto J
 and thus be strengthened to overcome it.
 I hope dear S+++______+++ and you learn scripture together, and repeat it to each other.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 10mo. 1836.
 
 I generally visit the poor children two or three times in the week,
@@ -953,6 +1003,7 @@ can hope for entrance into the "`city of God`"--we must be born again.
 May you and may I, my much loved girl,
 seek ability more constantly to bring forth the precious fruits of the Spirit.
 
+[.letter-heading]
 To the Same.
 
 Your journal note was very acceptable, and your warm affection is very sweet to me.
@@ -964,6 +1015,7 @@ and do be very careful not to cherish any improper feelings
 towards anyone--remember the example left us by our Saviour,
 m His conduct to His bitterest enemies.
 
+[.letter-heading]
 To the Same.
 
 I have just gained permission to write to you, my dearest Elizabeth, and I am glad,
@@ -985,10 +1037,11 @@ I must not write more now.
 Farewell, my beloved child.
 I am, as ever, yours, most affectionately.
 
+[.letter-heading]
 To Her Mother.
 
-Leominster, 12too.
-1836.
+[.signed-section-context-open]
+Leominster, 12m. 1836.
 
 My dearest mother! the time is short!
 The knowledge of its being so, and the rapidity with which it flies away,
@@ -1004,8 +1057,10 @@ It is cheering to think, that many dear to me, and amongst them yourself, my dea
 may be engaged in a similar manner.
 Surely, self-examination is a duty incumbent upon us all.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Leominster, 4th 1mo. 1837.
 
 More critical symptoms in your complaint are, indeed,
@@ -1053,10 +1108,14 @@ knowing exactly the portion needed for His children,
 will make it what He knows is best for them, and enable them, if they seek help from Him,
 to accept it with resignation and thankfulness.
 
+[.letter-heading]
 To the Same.
 
 +++[+++When in very poor health,
 in allusion to an affliction unconnected with her bodily state, Mary Ann writes:]
+
+[.small-break]
+'''
 
 That I needed such a trial, I unhesitatingly believe; and while most deeply feeling it,
 the chief desire of my heart has been, and is, that it may be sweetly sanctified.
@@ -1070,6 +1129,7 @@ even should the suffering caused by them be comparable to the refiner`'s fire.
 But while I write this, I feel that I should be struck with a sense of my deep frailty,
 for I do not live as if this were the desire of my heart.
 
+[.letter-heading]
 To the Same.
 
 It is seventh day evening--one, you know, my beloved mother,
@@ -1095,8 +1155,10 @@ Farewell, my very dear parent; before you receive this,
 I expect another sheet will have reached you from Aberystwith,
 but I thought I should like here to record the present feeling of my heart.
 
-To Her Sister S.
+[.letter-heading]
+To Her Sister S+++______+++.
 
+[.signed-section-context-open]
 11th 5mo. 1837.
 
 No words can I find to describe my anxious solicitude for you,
@@ -1120,8 +1182,10 @@ which alone is "`able to deliver;`" trust in it fully, lean upon it confidingly,
 my beloved girl, and you need not fear the "`whirlwind and the storm,
 or the rising billows; remember your refuge--fly to it, and seek rest there.`"
 
+[.letter-heading]
 To Her Brother Charles.
 
+[.signed-section-context-open]
 Leominster, 6th 6mo. 1837.
 
 In the prospect of parting from you, my beloved brother,
@@ -1144,9 +1208,11 @@ who has so mercifully cared for me all the days of my life, and who, I can still
 will help me to my journey`'s end.
 Accept very much love from your affectionate sister.
 
+[.letter-heading]
 To Her Parents.
 
-leominster, 15th 6mo. 1837.
+[.signed-section-context-open]
+Leominster, 15th 6mo. 1837.
 
 I am, I think, really gaining strength.
 Thus, my endeared parents, it again seems probable,
@@ -1166,10 +1232,11 @@ succour and His will to save`"--Oh for a stronger faith.
 Now it seems safest, indeed, the only safe way for me, (and alas,
 that I have been so long in learning the lesson) to live one day at a time.
 
+[.letter-heading]
 To Her Mother.
 
-Aberystwith, 14th Imo.
-1837.
+[.signed-section-context-open]
+Aberystwith, 14th 1mo. 1837.
 
 I hope, my beloved mother, the appearance of a letter before the time I mentioned,
 will not alarm you.
@@ -1194,6 +1261,7 @@ I sometimes fear I am held too tightly by my tenderly loved and much interested 
 Oh desire for me the spirit of entire resignation,
 that whether I live or die I may be wholly the Lord`'s.
 
+[.letter-heading]
 To the Same.
 
 Yes, my beloved mother,
@@ -1236,8 +1304,10 @@ That you may more and more realize the presence,
 the supporting presence of Israel`'s Shepherd,
 is the earnest desire of your very affectionate daughter.
 
-To Brother Charles.
+[.letter-heading]
+To Her Brother Charles.
 
+[.signed-section-context-open]
 Hotwells, 29th 3mo. 1838.
 
 Once more, dearest Charles, although with a trembling hand,
@@ -1257,8 +1327,8 @@ oh tell him that I trust he will give up his heart to the Lord!
 I must not, I believe, add more.
 Accept my dearest love, and give it to dear Henry.
 
+[.signed-section-closing]
 Yours most affectionately,
 
+[.signed-section-signature]
 Mary Ann Gilpin.
-
-Lavars and Ackland, Printers, Bristol.
